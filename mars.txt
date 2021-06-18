@@ -1,1 +1,2 @@
-a line about mars
+Rover Percy is currently on Mars
+Helicopter Ingenuity is on Mars
